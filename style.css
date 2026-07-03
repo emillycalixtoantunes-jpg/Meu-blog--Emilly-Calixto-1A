@@ -1,7 +1,12 @@
-.cabecalho{
- background-color:black;
- color:peru
- text-aling: center;
-margin:0 auto;
+.cabecalho {
+    background-color: black;
+    color: peru;
+    text-align: center;
+    margin: 0 auto
+}
 
+.principal-imagem {
+    /*Dimensões da imagem: largura e altura 100 pixels*/
+    width: 100px;
+    height: 100px;
 }
